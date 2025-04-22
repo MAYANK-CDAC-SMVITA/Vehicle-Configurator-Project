@@ -1,0 +1,119 @@
+/* Invoice.css */
+
+/* Basic styles for the page */
+.invoice {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f9f9f9;
+  max-width: 800px;
+  margin: 0 auto;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+
+h2 {
+  font-size: 18px;
+  color: #333;
+  border-bottom: 2px solid #f1f1f1;
+  padding-bottom: 8px;
+  margin-bottom: 16px;
+}
+
+h3 {
+  font-size: 16px;
+  color: #444;
+}
+
+/* Section Styling */
+.section {
+  margin-bottom: 30px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul li {
+  margin: 5px 0;
+  font-size: 14px;
+  color: #555;
+}
+
+/* Pricing and total sections */
+strong {
+  font-weight: bold;
+}
+
+.price-detail {
+  font-size: 16px;
+  color: #333;
+  margin-top: 5px;
+}
+
+/* Buttons */
+.button {
+  padding: 10px 20px;
+  margin: 10px 0;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.back-btn {
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+.back-btn:hover {
+  background-color: #e0e0e0;
+}
+
+.pdf-btn {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.pdf-btn:hover {
+  background-color: #45a049;
+}
+
+/* Adding borders and padding to the table of components */
+table {
+  width: 100%;
+  margin-top: 15px;
+  border-collapse: collapse;
+}
+
+table th, table td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+table th {
+  background-color: #f1f1f1;
+}
+
+table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+table tr:hover {
+  background-color: #f1f1f1;
+}
+
+table td {
+  font-size: 14px;
+  color: #555;
+}
+
+.invoice-header {
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 30px;
+  color: #333;
+}
