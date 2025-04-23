@@ -1,0 +1,139 @@
+/* Ensure full height for the page */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Ensures full height */
+}
+
+/* Navbar Styling */
+.navbar {
+  background-color: #3e4449; /* Changed to dark grey */
+  color: white;
+  padding: 15px 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  position: fixed;  /* Makes navbar fixed at top */
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.nav-list li {
+  padding: 5px 15px;
+}
+
+.nav-list a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.nav-list a:hover {
+  color: #adb5bd; /* Light grey hover effect */
+}
+
+/* Sidebar Styling */
+.sidebar {
+  position: fixed;
+  top: 60px; /* Starts below the navbar */
+  left: 0;
+  width: 80px; /* Normal sidebar width */
+  height: calc(100% - 60px); /* Ensures it fits below the navbar */
+  background-color: #3e4449; /* Changed to dark grey */
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+  width: 100%;
+}
+
+.sidebar li {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.sidebar a {
+  color: white;
+  text-decoration: none;
+  font-size: 24px; /* Adjust icon size */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 10px;
+}
+
+.sidebar a:hover {
+  color: #3e4449;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 5px;
+}
+
+/* Content Styling */
+.content {
+  flex: 1; /* Pushes footer down */
+  margin-top: 80px; /* Prevents overlap with navbar */
+  margin-left: 80px; /* Matches sidebar width */
+  padding: 20px;
+}
+
+/* Fixed Footer Styling */
+footer {
+  background-color: #3e4449; /* Changed to dark grey */
+  text-align: center;
+  padding: 10px;
+  width: 100%;
+  position: relative;
+  bottom: 0;
+  margin-top: auto; /* Pushes footer to the bottom */
+  color: white;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+    flex-direction: row;
+    justify-content: center;
+    top: 0; /* Aligns it properly on small screens */
+  }
+
+  .sidebar ul {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .sidebar li {
+    margin: 10px;
+  }
+
+  .content {
+    margin-left: 0; /* No sidebar space needed */
+    margin-top: 100px; /* Ensure space below navbar */
+  }
+}

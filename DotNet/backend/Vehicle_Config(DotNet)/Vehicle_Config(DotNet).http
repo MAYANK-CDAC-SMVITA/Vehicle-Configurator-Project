@@ -1,0 +1,6 @@
+@Vehicle_Config_DotNet__HostAddress = http://localhost:5080
+
+GET {{Vehicle_Config_DotNet__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

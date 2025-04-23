@@ -1,0 +1,56 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  padding: 10px 20px;
+  color: white;
+}
+
+.navbar-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: white; /* ✅ Ensures the title is white */
+  margin: 0;
+  padding: 0;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-list li {
+  margin: 0 15px;
+}
+
+.nav-list a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  transition: color 0.3s;
+}
+
+.nav-list a:hover {
+  color: #ffcc00;
+}
+
+/* 🔹 Aligns the Logout button properly */
+.nav-list .logout-btn {
+  background-color: #ff4d4d;
+  border: none;
+  color: white;
+  font-size: 16px;
+  padding: 8px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s;
+  margin-left: 20px; /* ✅ Creates space between last menu item and Logout */
+}
+
+.nav-list .logout-btn:hover {
+  background-color: #cc0000;
+}

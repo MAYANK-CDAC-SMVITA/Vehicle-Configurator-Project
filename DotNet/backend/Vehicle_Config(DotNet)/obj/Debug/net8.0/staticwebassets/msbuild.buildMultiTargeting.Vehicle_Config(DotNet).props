@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Vehicle_Config(DotNet).props" />
+</Project>

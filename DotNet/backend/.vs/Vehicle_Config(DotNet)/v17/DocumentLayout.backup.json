@@ -1,0 +1,782 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\ModelController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Controllers\\ModelController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\Model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Models\\Model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\LogEntry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Models\\LogEntry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\VehicledetailsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Controllers\\VehicledetailsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Repositories\\ProjectContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Repositories\\ProjectContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\EmailSenderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Controllers\\EmailSenderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\JWTController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Controllers\\JWTController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\EmailRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Models\\EmailRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\IEmailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Services\\IEmailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\IInvoiceService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Services\\IInvoiceService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\Invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Models\\Invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\EmailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Services\\EmailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Configuration\\EmailSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Configuration\\EmailSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\ISegmentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Services\\ISegmentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\InvoiceService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Services\\InvoiceService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\InvoiceController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Controllers\\InvoiceController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\ComponentDetailController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Controllers\\ComponentDetailController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\ModelDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Models\\ModelDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\VehicleDetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Models\\VehicleDetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\ComponentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Models\\ComponentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\VehicleDetailDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Models\\VehicleDetailDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\ComponentDetailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Services\\ComponentDetailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\ManufacturerDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Models\\ManufacturerDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\SegmentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Models\\SegmentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\AltComponentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Models\\AltComponentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\VehicleDetailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Services\\VehicleDetailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\AltComponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Models\\AltComponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\ModelService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Services\\ModelService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\Component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Models\\Component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\CompanyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Models\\CompanyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\Segment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Models\\Segment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\Manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Models\\Manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\IVehicleDetailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Services\\IVehicleDetailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\ManufacturerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Controllers\\ManufacturerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\ManufacturerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Services\\ManufacturerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\IManufacturerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Services\\IManufacturerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\SegmentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Controllers\\SegmentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\SegmentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Services\\SegmentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\IModelService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Services\\IModelService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\UserRepositoryImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Services\\UserRepositoryImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\RegistrationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Controllers\\RegistrationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Logging\\DbLoggerProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Logging\\DbLoggerProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Logging\\DbLogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Logging\\DbLogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\ExceptionMiddleWare\\CustomMiddleWare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\ExceptionMiddleWare\\CustomMiddleWare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\Services\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\ExceptionMiddleWare\\BaseResponseDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehicle_Config(DotNet)\\ExceptionMiddleWare\\BaseResponseDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\Model.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Models\\Model.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\Model.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Models\\Model.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:13:59.725Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModelController.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\ModelController.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Controllers\\ModelController.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\ModelController.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Controllers\\ModelController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:22:46.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogEntry.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\LogEntry.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Models\\LogEntry.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\LogEntry.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Models\\LogEntry.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:04:51.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectContext.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Repositories\\ProjectContext.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Repositories\\ProjectContext.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Repositories\\ProjectContext.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Repositories\\ProjectContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wCMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:37:22.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Program.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Program.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Program.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAYwFgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:47:06.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailSenderController.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\EmailSenderController.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Controllers\\EmailSenderController.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\EmailSenderController.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Controllers\\EmailSenderController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwCwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:43:20.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JWTController.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\JWTController.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Controllers\\JWTController.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\JWTController.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Controllers\\JWTController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T05:57:11.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailRequest.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\EmailRequest.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Models\\EmailRequest.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\EmailRequest.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Models\\EmailRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:53:32.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehicledetailsController.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\VehicledetailsController.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Controllers\\VehicledetailsController.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\VehicledetailsController.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Controllers\\VehicledetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:24:44.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Services\\IEmailService.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\IEmailService.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Services\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:55:49.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IInvoiceService.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\IInvoiceService.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Services\\IInvoiceService.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\IInvoiceService.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Services\\IInvoiceService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:35:40.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Models\\Invoice.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\Invoice.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Models\\Invoice.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:14:10.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Services\\EmailService.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\EmailService.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:54:43.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Configuration\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Configuration\\EmailSettings.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Configuration\\EmailSettings.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Configuration\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:41:08.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ISegmentService.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\ISegmentService.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Services\\ISegmentService.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\ISegmentService.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Services\\ISegmentService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:44:13.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Services\\InvoiceService.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\InvoiceService.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Services\\InvoiceService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA5wBEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:34:00.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Controllers\\InvoiceController.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Controllers\\InvoiceController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:51:37.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ComponentDetailController.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\ComponentDetailController.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Controllers\\ComponentDetailController.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\ComponentDetailController.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Controllers\\ComponentDetailController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:50:32.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ModelDto.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\ModelDto.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Models\\ModelDto.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\ModelDto.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Models\\ModelDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:23:22.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VehicleDetail.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\VehicleDetail.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Models\\VehicleDetail.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\VehicleDetail.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Models\\VehicleDetail.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:24:55.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ComponentDto.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\ComponentDto.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Models\\ComponentDto.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\ComponentDto.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Models\\ComponentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:21:58.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VehicleDetailDto.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\VehicleDetailDto.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Models\\VehicleDetailDto.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\VehicleDetailDto.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Models\\VehicleDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:31:59.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ComponentDetailService.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\ComponentDetailService.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Services\\ComponentDetailService.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\ComponentDetailService.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Services\\ComponentDetailService.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAYwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:52:47.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ManufacturerDto.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\ManufacturerDto.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Models\\ManufacturerDto.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\ManufacturerDto.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Models\\ManufacturerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:22:28.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SegmentDto.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\SegmentDto.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Models\\SegmentDto.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\SegmentDto.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Models\\SegmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:22:57.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AltComponentDto.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\AltComponentDto.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Models\\AltComponentDto.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\AltComponentDto.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Models\\AltComponentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:32:54.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "VehicleDetailService.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\VehicleDetailService.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Services\\VehicleDetailService.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\VehicleDetailService.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Services\\VehicleDetailService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:23:40.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AltComponent.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\AltComponent.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Models\\AltComponent.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\AltComponent.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Models\\AltComponent.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwCEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:04:17.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ModelService.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\ModelService.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Services\\ModelService.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\ModelService.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Services\\ModelService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAYwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:46:24.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Component.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\Component.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Models\\Component.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\Component.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Models\\Component.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:00:40.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CompanyInfo.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\CompanyInfo.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Models\\CompanyInfo.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\CompanyInfo.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Models\\CompanyInfo.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:45:57.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Segment.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\Segment.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Models\\Segment.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\Segment.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Models\\Segment.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:24:04.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Models\\Manufacturer.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Models\\Manufacturer.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Models\\Manufacturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:10:25.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IVehicleDetailService.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\IVehicleDetailService.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Services\\IVehicleDetailService.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\IVehicleDetailService.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Services\\IVehicleDetailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:30:34.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ManufacturerController.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\ManufacturerController.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Controllers\\ManufacturerController.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\ManufacturerController.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Controllers\\ManufacturerController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:23:48.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ManufacturerService.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\ManufacturerService.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Services\\ManufacturerService.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\ManufacturerService.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Services\\ManufacturerService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:05:17.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IManufacturerService.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\IManufacturerService.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Services\\IManufacturerService.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\IManufacturerService.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Services\\IManufacturerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:03:38.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SegmentController.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\SegmentController.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Controllers\\SegmentController.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\SegmentController.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Controllers\\SegmentController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:20:01.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SegmentService.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\SegmentService.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Services\\SegmentService.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\SegmentService.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Services\\SegmentService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:44:24.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IModelService.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\IModelService.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Services\\IModelService.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\IModelService.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Services\\IModelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:45:02.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserRepositoryImpl.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\UserRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Services\\UserRepositoryImpl.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\UserRepositoryImpl.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Services\\UserRepositoryImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:49:15.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Controllers\\RegistrationController.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:06:26.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DbLoggerProvider.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Logging\\DbLoggerProvider.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Logging\\DbLoggerProvider.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Logging\\DbLoggerProvider.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Logging\\DbLoggerProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:10:56.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DbLogger.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Logging\\DbLogger.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Logging\\DbLogger.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Logging\\DbLogger.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Logging\\DbLogger.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:06:27.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CustomMiddleWare.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\ExceptionMiddleWare\\CustomMiddleWare.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\ExceptionMiddleWare\\CustomMiddleWare.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\ExceptionMiddleWare\\CustomMiddleWare.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\ExceptionMiddleWare\\CustomMiddleWare.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:43:18.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\Services\\IUserRepository.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\Services\\IUserRepository.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\Services\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:30:42.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BaseResponseDTO.cs",
+              "DocumentMoniker": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\ExceptionMiddleWare\\BaseResponseDTO.cs",
+              "RelativeDocumentMoniker": "Vehicle_Config(DotNet)\\ExceptionMiddleWare\\BaseResponseDTO.cs",
+              "ToolTip": "D:\\Final project\\.net\\Vehicle_Config(DotNet)\\Vehicle_Config(DotNet)\\ExceptionMiddleWare\\BaseResponseDTO.cs",
+              "RelativeToolTip": "Vehicle_Config(DotNet)\\ExceptionMiddleWare\\BaseResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:40:55.863Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

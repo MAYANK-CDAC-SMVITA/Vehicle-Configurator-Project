@@ -1,0 +1,32 @@
+/* src/Components/About.css */
+
+/* Add some padding to the container for spacing */
+.about {
+  padding: 20px;
+}
+
+/* Flex container to stack buttons vertically with gap */
+.button-container {
+  display: flex;
+  flex-direction: column; /* Stack buttons vertically */
+  gap: 15px; /* Space between buttons */
+  align-items: center; /* Center buttons horizontally */
+}
+
+
+.button-item {
+  padding: 10px 20px; 
+  font-size: 16px; 
+  cursor: pointer; 
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+  width: 200px; 
+  transition: background-color 0.3s ease;
+  margin: 0; 
+}
+
+.button-item:hover {
+  background-color: #0056b3;
+}
